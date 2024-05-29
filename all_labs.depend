@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1712128624 source:d:\lr\all_labs\lr.c
+	<stdio.h>
+	"lr.h"
+
+1713379892 d:\lr\all_labs\lr.h
+
+1713379892 source:d:\lr\all_labs\main.c
+	<stdio.h>
+	"lr.h"
+
+1716335592 source:c:\users\hasiv\desktop\lr7-master (2)\lr7-master\lr.c
+	<stdio.h>
+	"lr.h"
+	<math.h>
+	<string.h>
+	<limits.h>
+
+1716334813 c:\users\hasiv\desktop\lr7-master (2)\lr7-master\lr.h
+
+1716334797 source:c:\users\hasiv\desktop\lr7-master (2)\lr7-master\main.c
+	<stdio.h>
+	"lr.h"
+	<math.h>
+	<string.h>
+	<limits.h>
+
+1716466703 source:c:\users\hasiv\desktop\lr7-master (2)\all labs\main.c
+	<stdio.h>
+	"lr.h"
+	<math.h>
+	<string.h>
+	<limits.h>
+
+1716334813 c:\users\hasiv\desktop\lr7-master (2)\all labs\lr.h
+
+1716467120 source:c:\users\hasiv\desktop\lr7-master (2)\all labs\lr.c
+	<stdio.h>
+	"lr.h"
+	<math.h>
+	<string.h>
+	<limits.h>
+
+1716940498 source:c:\users\hasiv\desktop\all labs program\all labs\main.c
+	<stdio.h>
+	"lr.h"
+	<math.h>
+	<string.h>
+	<limits.h>
+
+1716500187 c:\users\hasiv\desktop\all labs program\all labs\lr.h
+
+1716941133 source:c:\users\hasiv\desktop\all labs program\all labs\lr.c
+	<stdio.h>
+	"lr.h"
+	<math.h>
+	<string.h>
+	<limits.h>
+
